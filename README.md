@@ -1,2 +1,2 @@
 # groovy
-a c++ based muci player.
+a c++ based music player.
